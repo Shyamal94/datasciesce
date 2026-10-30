@@ -1,0 +1,8 @@
+{
+  "name": "OncoCare - Breast Cancer Detection & Clinical Intelligence",
+  "description": "Comprehensive breast cancer intelligence portal featuring dual-panel authentication (Mobile OTP and Gmail), WHO global statistics, patient assessment, evidence-based knowledge & precaution guides, and a UCI Machine Learning Random Forest classifier with SHAP explainability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
